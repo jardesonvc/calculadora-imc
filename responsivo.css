@@ -1,0 +1,6 @@
+@media (max-width: 545px) {
+    .container .form {
+        border: none;
+        box-shadow: none;
+    }
+}
